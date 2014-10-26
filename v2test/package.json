@@ -1,0 +1,21 @@
+{
+  "name": "BitShadowCollector",
+  "version": "2.0.0",
+  "description": "Bit Shadow Collector",
+  "main": "app.js",
+  "scripts": {},
+  "repository": "https://github.com/vinceallenvince/Bit-Shadow-Collector",
+  "author": {
+    "name": "Vince Allen",
+    "address": "Brooklyn, NY",
+    "email": "vince@vinceallen.com",
+    "twitter": "@vinceallenvince"
+  },
+  "license": "MIT",
+  "engine": "0.6.x",
+  "dependencies": {
+    "express": "~4.9.5",
+    "socket.io": "~1.1.0",
+    "fs": "0.0.2"
+  }
+}
